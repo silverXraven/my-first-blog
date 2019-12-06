@@ -1,0 +1,2 @@
+cd F:\djangoset1\start\Scripts
+activate
